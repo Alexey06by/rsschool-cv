@@ -10,12 +10,10 @@
     * JS
     * Git
 5. Code Example
-
 ```function multiply(a, b){
   return a * b
 }
 ```
-
 6. Work Experience
     * I have used JS for test automation in Postman.
     * [CV project](https://github.com/Alexey06by/rsschool-cv/tree/gh-pages)
