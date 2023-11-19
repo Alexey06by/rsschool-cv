@@ -9,6 +9,8 @@
     * C/C++
     * JS
     * Git
+    * Functional testing
+    * API testing
 5. Code Example
 ```function multiply(a, b){
   return a * b
