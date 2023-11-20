@@ -1,5 +1,5 @@
 # CV
-1. My full name is Aliaksei Karneyeu
+1. My full name is Aliaksei Karneyeu.
 2. Contact Information
     * Email: alexey06by@gmail.com
     * Discord server nickname: alexey_korneev
@@ -9,8 +9,6 @@
     * C/C++
     * JS
     * Git
-    * Functional testing
-    * API testing
 5. Code Example
 ```function multiply(a, b){
   return a * b
